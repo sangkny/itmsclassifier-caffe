@@ -1,0 +1,5 @@
+human
+sedan
+suv
+truck
+others
