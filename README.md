@@ -1,5 +1,7 @@
 # ITMS Classifier with CAFFE
-ITMS Classification
+ITMS Classification 
+Inference test with caffe model
+
 ```angular2html
 dependencies: py3.6-pytorch1.2-caffe-gpu.yml
 - caffenet.py
